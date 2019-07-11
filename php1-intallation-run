@@ -1,0 +1,50 @@
+
+
+https://www.apachefriends.org/faq_linux.html  ==> to install and run instruction here
+
+
+
+
+cd /opt/lampp  ==> after goto in this folder then execute below commanda 
+sudo ./manager-linux-x64.run  ====> then server will start
+
+
+sometimes apche server can't run on default port like 80 ...etc then u have to change to other port like 8000,8080,8666
+
+
+then
+
+
+http://localhost:8000
+
+http://localhost:8000/phpmyadmin/
+=======================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
